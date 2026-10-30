@@ -2,21 +2,6 @@
   Previsão de aluguel de imóveis em São Paulo
 </h1>
 
-<p align="center">
-  Projeto de Machine Learning para análise e previsão de preços de aluguel de imóveis no estado de São Paulo.
-</p>
-
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#fonte">Dataset</a> •
- <a href="#analise">Análise Exploratória</a> •
- <a href="#modelo">Modelagem</a> •
- <a href="#resultados">Resultados</a> •
- <a href="#conclusao">Conclusão</a>
-</p>
-
----
-
 <h2 id="objetivo">🎯 Objetivo</h2>
 
 <p>
@@ -133,6 +118,3 @@ Entre os modelos avaliados, o <code>RandomForestRegressor</code> apresentou o me
 <p>
 Apesar da quantidade limitada de atributos explorados neste projeto, os resultados demonstram o potencial do modelo para estimar valores de aluguel a partir das características disponíveis.
 </p>
-
-<h3>👨‍💻 Autor</h3>
-<p>Marcos Rian</p>
